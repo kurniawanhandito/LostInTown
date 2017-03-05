@@ -1,0 +1,4 @@
+Game Lost in Town menggunakan teknologi web storage (salah satu fitur client storage HTML 5) maka game ini mampu menyimpan
+score yang telah diperoleh meskipun browser di tutup dan game ini diakses lagi, score masih tersimpan.
+
+tutorial pada game ini juga memanfaatkan teknologi web storage dan tutorial di setting hanya akan muncul pada awal membuka game(belum pernah sama sekali), setelah create new user, dan setelah clear saved game. Apabila user tidak mengalami 3 hal tersebut maka setelah splash screen langsung menuju permainan karena seperti game-game pada umumnya biasanya bila user tidak buat baru atau tidak menghapus data simpanan maka tutorial tidak ditampilkan. (Jadi ini bukan bug atau kesalahan tapi memang settingan kami).
